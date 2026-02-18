@@ -21,7 +21,8 @@
     //     return 0;
 // }
 // #define (array ka vairable name i.e Bound) 25 -means max value is 25 i.e int arr[Bound]
-int main(){
+int main()
+{
     // for(i=0;i<5;i++){ for traverse in forward
     //     // printf("%d \n",marks[i]);
     // }
@@ -50,5 +51,5 @@ int main(){
     // }
     // printf()
     int n,i;
-    printf("Enter ")
-};
+    printf("Enter ");
+ }
