@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(void)
 {
     int arr[100], n, i, choice, pos, val, found = 0;
